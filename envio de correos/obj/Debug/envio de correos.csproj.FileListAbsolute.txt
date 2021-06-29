@@ -1,0 +1,7 @@
+C:\Users\FULLSTACK DEV\source\repos\envio de correos\envio de correos\bin\Debug\envio de correos.exe.config
+C:\Users\FULLSTACK DEV\source\repos\envio de correos\envio de correos\bin\Debug\envio de correos.exe
+C:\Users\FULLSTACK DEV\source\repos\envio de correos\envio de correos\bin\Debug\envio de correos.pdb
+C:\Users\FULLSTACK DEV\source\repos\envio de correos\envio de correos\obj\Debug\envio de correos.csprojAssemblyReference.cache
+C:\Users\FULLSTACK DEV\source\repos\envio de correos\envio de correos\obj\Debug\envio de correos.csproj.CoreCompileInputs.cache
+C:\Users\FULLSTACK DEV\source\repos\envio de correos\envio de correos\obj\Debug\envio de correos.exe
+C:\Users\FULLSTACK DEV\source\repos\envio de correos\envio de correos\obj\Debug\envio de correos.pdb
